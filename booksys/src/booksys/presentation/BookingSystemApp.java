@@ -7,7 +7,6 @@
  */
 //
 package booksys.presentation ;
-//choihj push test
 import java.awt.* ;
 import java.awt.event.* ;
 
