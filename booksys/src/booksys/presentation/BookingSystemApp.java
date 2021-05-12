@@ -7,7 +7,7 @@
  */
 //
 package booksys.presentation ;
-//choihj00
+//choihj00 ¡÷ºÆ
 import java.awt.* ;
 import java.awt.event.* ;
 
