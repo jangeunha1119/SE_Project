@@ -66,7 +66,7 @@ class Connectivity
     
     String dbURL = props.getProperty("jdbc.url") ;
     try{
-      con = DriverManager.getConnection(dbURL) ;
+      con = DriverManager.getConnection(dbURL, "root", "201912154") ;
     }
     catch (SQLException e) {
       e.printStackTrace() ;
