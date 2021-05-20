@@ -1,6 +1,6 @@
 package booksys.application.domain;
 
-//전반적 기능
+//전반적 기능 아래 주석 참고
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
